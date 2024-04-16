@@ -21,3 +21,4 @@ Output:
 
 The output shows the IP address being scanned and the list of open ports found, if any.
 Overall, this script provides a basic way to identify open ports on a specified IP address, which can help users understand potential vulnerabilities in their network.
+
